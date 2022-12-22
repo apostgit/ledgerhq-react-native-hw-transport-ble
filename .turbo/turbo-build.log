@@ -1,0 +1,4 @@
+
+> @ledgerhq/react-native-hw-transport-ble@6.27.11 build /home/runner/work/ledger-live/ledger-live/libs/ledgerjs/packages/react-native-hw-transport-ble
+> tsc && tsc -m ES6 --outDir lib-es
+
